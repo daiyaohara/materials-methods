@@ -1,0 +1,13 @@
+
+<li><a href="#Kit">3-1 Kit</a></li>
+<li><a href="#Restriction Enzyme">3-2 Restriction Enzyme</a></li>
+<li><a href="#Polymerase">3-3 Polymerase</a></li>
+<li><a href="#DNA ligase">3-4 DNA ligase</a></li>
+<li><a href="#Marker">3-5 Marker</a></li>
+<li><a href="#Organism">3-6 Organism</a></li>
+<li><a href="#Antibiotics">3-7 Antibiotics</a></li>
+<li><a href="#Equipment">3-8 Equipment</a></li>
+<li><a href="#Backbone">3-9 Backbone</a></li>
+<li><a href="#Buffer">3-10 Buffer</a></li>
+<li><a href="#SDSPAGE&Westernblotting">3-11 SDSPAGE&Westernblotting</a></li>
+<li><a href="#B.xylophilus Experiment">3-12 B.xylophilus Experiment</a></li>

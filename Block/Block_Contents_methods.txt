@@ -1,0 +1,4 @@
+
+<li><a href="#Miniprep">4-1 Miniprep</a></li>
+<li><a href="#Western blotting (basic protocol)">4-2 Western blotting (basic protocol)</a></li>
+<li><a href="#Restriction Enzyme Digestion">4-3 Restriction Enzyme Digestion</a></li>
